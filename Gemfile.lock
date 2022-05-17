@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/decidim/decidim
-  revision: e1f0b1ee6d534cb2827f44cbd234b631de5edb70
+  revision: 13b752217841c1f8567874ff3810dc4a90c0a140
   branch: feat/privacy_policy_summary
   specs:
     decidim (0.27.0.dev)
@@ -253,7 +253,7 @@ GEM
       ice_nine (~> 0.11.0)
       thread_safe (~> 0.3, >= 0.3.1)
     batch-loader (1.5.0)
-    bcrypt (3.1.17)
+    bcrypt (3.1.18)
     better_html (1.0.16)
       actionview (>= 4.0)
       activesupport (>= 4.0)
@@ -375,7 +375,7 @@ GEM
     faraday (2.3.0)
       faraday-net_http (~> 2.0)
       ruby2_keywords (>= 0.0.4)
-    faraday-net_http (2.0.2)
+    faraday-net_http (2.0.3)
     ffi (1.15.5)
     file_validators (3.0.0)
       activemodel (>= 3.2)
@@ -665,7 +665,7 @@ GEM
     ruby-vips (2.1.4)
       ffi (~> 1.12)
     ruby2_keywords (0.0.5)
-    rubyXL (3.4.23)
+    rubyXL (3.4.24)
       nokogiri (>= 1.10.8)
       rubyzip (>= 1.3.0)
     rubyzip (2.3.2)
